@@ -1,0 +1,15 @@
+.custom-button {
+    -fx-alignment: center-left; /* 设置按钮左对齐 */
+    -fx-padding: 10px; /* 设置按钮内边距 */
+    -fx-background-color: #6d47cb; /* 设置按钮背景颜色 */
+    -fx-text-fill: #FFFFFF;
+    -fx-pref-height: 40px;
+    -fx-pref-width: 120px;
+    -fx-alignment: center;
+}
+
+.text-input {
+    -fx-min-width: 80px; /* 设置最小宽度为30像素 */
+    -fx-max-width: 80px; /* 设置最大宽度为100像素 */
+    -fx-pref-height: 40px;
+}
